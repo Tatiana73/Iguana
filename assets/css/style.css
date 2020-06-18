@@ -1,0 +1,160 @@
+body {
+
+text-align: center;
+color: #000000;
+margin:0 auto;
+font-family: 'Raleway', sans-serif;
+
+}
+
+body * {  margin: 0;  border: 0;  padding: 0; }
+
+.head{
+  background: #000000;
+  color: #ffffff;
+  text-align:center;
+  width: 100%;
+}
+
+.bg-header{
+  width: 100%;
+}
+
+#black {
+  width: 100%;
+}
+
+.negro {
+  background: #000000;
+  color: #ffffff;
+  text-align: center;
+  width: 100%;
+  }
+
+  .reptil{
+       width: 38,8%;
+       height: 237px;
+
+        }
+
+  .content {
+    width: 37%;
+    height: 197px;
+    text-align: left;
+    display: inline-block;
+    padding-top:76px;
+    padding-bottom: 75px;
+    vertical-align: middle;
+  }
+
+  .img-iguana1 {
+    padding-top: 45px;
+    display: inline-block;
+    float: right;
+     padding-bottom: 66px;
+     margin-right: 150px;
+      float: right;
+         vertical-align: middle;
+          }
+
+
+#black1 {
+        width: 100%;
+      }
+
+.gris {
+background: #1E1A13;
+color: #ffffff;
+width: 100%;
+text-align: center;
+  }
+
+h1{
+font-weight: 500;
+font-size: 3.125em;
+}
+
+p {
+  font-weight: 300;
+  font-size: 1.000em;
+}
+
+h2{
+padding-top: 75px;
+padding-bottom: 70px;
+font-weight: 500;
+font-size: 2.500em;
+}
+
+h3{
+  font-weight: 300;
+  padding-bottom: 74px;
+}
+
+.tercer-ojo{
+
+  display: inline-block;
+  float: left;
+  padding-left: 326px;
+  padding-bottom: 16.36px;
+  vertical-align: text-bottom;
+}
+
+.paz {
+
+  display: inline-block;
+  padding-bottom: 16.36px;
+  padding-right: 255.66px;
+  vertical-align: middle;
+}
+
+.color {
+display: inline-block;
+  padding-bottom: 16.36px;
+vertical-align:baseline;
+}
+
+#black2 {
+width: 100%;
+}
+
+.iguana2 {
+  width: 316px;
+  height: 202px;
+  padding-bottom: 73px;
+  padding-top: 73px;
+    padding-right: 16px;
+}
+
+.iguana3{
+  width: 316px;
+  height: 202px;
+  padding-bottom: 73px;
+  padding-top: 73px;
+    padding-right: 16px;
+}
+
+.iguana4{
+  width: 316px;
+  height: 202px;
+  padding-bottom: 73px;
+  padding-top: 73px;
+}
+
+.fotos {
+  display: inline-block;
+}
+
+.pie1 {
+  background: #1E1A13;
+  color: #ffffff;
+  width: 100%;
+  text-align: center;
+  padding-top: 39px;
+  padding-bottom: 39px;
+}
+
+.link {
+  font-weight: 300;
+  font-size: 1.250em;
+  }
